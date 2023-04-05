@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiis344
 - 👀 I’m interested in learning new features of programming
-- 🌱 I’m currently learning Python HTML e CSS
+- 🌱 I’m currently learning Java, Javascript, HTML e CSS
 - JavaScript
 - Git e Github 
 - 💞️ I’m looking to work the programming field 
