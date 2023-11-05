@@ -1,4 +1,4 @@
-- Cursando Análise e desenvolvimento de sistemas na PUCGO (terceio período)
+- Cursando Análise e desenvolvimento de sistemas na PUCGO (terceiro período)
 - JAVA
 - GIT
 - PostgreSQL
