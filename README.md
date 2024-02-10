@@ -5,4 +5,4 @@
 - JS
 - CSS
 - HTMl
-- atualmente me especializando em desenvolvimento BackEnd com foco em java orientado a objetos 
+- atualmente me especializando em desenvolvimento BackEnd com foco em java orientado a objetos e SPRING 
