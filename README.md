@@ -1,4 +1,5 @@
-- Cursando Análise e desenvolvimento de sistemas na PUCGO (terceiro período)
+-20 anos de pura sede por aprendizado 
+- Cursando Análise e desenvolvimento de sistemas na PUCGO 3°Período
 - JAVA
 - GIT
 - PostgreSQL
