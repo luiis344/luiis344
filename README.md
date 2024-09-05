@@ -6,3 +6,5 @@
 - JS
 - CSS
 - HTMl
+- -DOCKER
+- SQL
