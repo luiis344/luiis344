@@ -1,13 +1,13 @@
--20 anos de pura sede por aprendizado 
-- Cursando Análise e desenvolvimento de sistemas na PUCGO 3°Período
+-21 anos de pura sede por aprendizado 
+- Cursando Análise e desenvolvimento de sistemas na PUCGO 5°Período
 - JAVA
 - GIT
 - PostgreSQL
 - JS
 - CSS
-- HTMl
+- Html
 - -DOCKER
-- SQL
+- MYSQL
 - Node
 - Spring
 - GitHub
